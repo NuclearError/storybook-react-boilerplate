@@ -15,4 +15,5 @@ npm run storybook
 You should now be able to view the storybook boilerplate in the browser at [http://localhost:9001/](http://localhost:9001/).
 
 The boilerplate contains a simple 'SearchApp' - this is an input field that repeats the input string on the page. No actual search action is performed.
-[Imgur](https://i.imgur.com/hpYn2B2.png)
+
+![What you should see](https://i.imgur.com/hpYn2B2.png)
